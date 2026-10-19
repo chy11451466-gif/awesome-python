@@ -237,7 +237,7 @@ _Libraries for working with human languages._
   - [stanza](https://github.com/stanfordnlp/stanza) - The Stanford NLP Group's official Python library, supporting 60+ languages.
 - Chinese
   - [jieba](https://github.com/fxsjy/jieba) - The most popular Chinese text segmentation library.
-  - [pypinyin](https://github.com/mozillazg/python-pinyin) - Convert Chinese hanzi (漢字) to pinyin (拼音).
+  - [pypinyin](https://github.com/mozillazg/python-pinyin) - Convert Chinese hanzi (汉字) to pinyin (拼音).
   - [OpenCC](https://github.com/BYVoid/OpenCC) - Traditional/Simplified Chinese conversion with regional variants and phrase-level rules.
   - [pangu.py](https://github.com/vinta/pangu.py) - Paranoid text spacing.
 
